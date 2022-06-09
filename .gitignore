@@ -8,3 +8,4 @@ spec/fixtures/**
 vendor/**
 modules/
 .vagrant
+*.log

@@ -6,3 +6,5 @@ wget https://raw.githubusercontent.com/Puppet-Finland/scripts/master/bootstrap/l
 
 wget https://raw.githubusercontent.com/Puppet-Finland/scripts/master/bootstrap/linux/install-puppet-modules.sh -q -O install-puppet-modules.sh
 /bin/sh install-puppet-modules.sh -n drupal
+
+cp /vagrant/vagrant/drupal-install.sh /home/vagrant/
